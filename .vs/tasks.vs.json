@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Data_Types",
+      "appliesTo": "C# \u0026 CLR/Data_Types.cs",
+      "type": "launch"
+    }
+  ]
+}
