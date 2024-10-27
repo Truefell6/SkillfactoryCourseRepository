@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A5E16CE2-E380-4C2A-B622-56C6BE92388B}|Data_Types_Basics\\Data_Types_Basics.csproj|e:\\visualstudioprojects\\skillfactorycourserepository\\data_types_basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E16CE2-E380-4C2A-B622-56C6BE92388B}|Data_Types_Basics\\Data_Types_Basics.csproj|solutionrelative:data_types_basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,19 +22,43 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-06T12:57:08.675Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Data_Types_Basics\\Program.cs",
+              "RelativeDocumentMoniker": "Data_Types_Basics\\Program.cs",
+              "ToolTip": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Data_Types_Basics\\Program.cs",
+              "RelativeToolTip": "Data_Types_Basics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:12:57.851Z",
               "EditorCaption": ""
             }
           ]
