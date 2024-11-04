@@ -1,0 +1,15 @@
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\bin\Debug\net8.0\Data_Types_Basics_4.1.exe
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\bin\Debug\net8.0\Data_Types_Basics_4.1.deps.json
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\bin\Debug\net8.0\Data_Types_Basics_4.1.runtimeconfig.json
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\bin\Debug\net8.0\Data_Types_Basics_4.1.dll
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\bin\Debug\net8.0\Data_Types_Basics_4.1.pdb
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\obj\Debug\net8.0\Data_Types_Basics_4.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\obj\Debug\net8.0\Data_Types_Basics_4.1.AssemblyInfoInputs.cache
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\obj\Debug\net8.0\Data_Types_Basics_4.1.AssemblyInfo.cs
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\obj\Debug\net8.0\Data_Types_Basics_4.1.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\obj\Debug\net8.0\Data_Types_Basics_4.1.sourcelink.json
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\obj\Debug\net8.0\Data_Types_Basics_4.1.dll
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\obj\Debug\net8.0\refint\Data_Types_Basics_4.1.dll
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\obj\Debug\net8.0\Data_Types_Basics_4.1.pdb
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\obj\Debug\net8.0\Data_Types_Basics_4.1.genruntimeconfig.cache
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Data_Types_Basics_4.1\obj\Debug\net8.0\ref\Data_Types_Basics_4.1.dll
