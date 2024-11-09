@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D75EC494-CE0B-442C-98F8-7D9573409E50}|Data_Types_Basics_4.1\\Data_Types_Basics_4.1.csproj|e:\\visualstudioprojects\\skillfactorycourserepository\\data_types_basics_4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D75EC494-CE0B-442C-98F8-7D9573409E50}|Data_Types_Basics_4.1\\Data_Types_Basics_4.1.csproj|solutionrelative:data_types_basics_4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D990AD5A-3D22-49D7-8D57-43254D2F42A6}|Data_Types_Basics_4.5\\Data_Types_Basics_4.5.csproj|e:\\visualstudioprojects\\skillfactorycourserepository\\data_types_basics_4.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D990AD5A-3D22-49D7-8D57-43254D2F42A6}|Data_Types_Basics_4.5\\Data_Types_Basics_4.5.csproj|solutionrelative:data_types_basics_4.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,16 +49,20 @@
               "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Data_Types_Basics_4.1\\Program.cs",
-              "RelativeDocumentMoniker": "Data_Types_Basics_4.1\\Program.cs",
-              "ToolTip": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Data_Types_Basics_4.1\\Program.cs",
-              "RelativeToolTip": "Data_Types_Basics_4.1\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAAA1AAAAAAAAAA==",
+              "DocumentMoniker": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Data_Types_Basics_4.5\\Program.cs",
+              "RelativeDocumentMoniker": "Data_Types_Basics_4.5\\Program.cs",
+              "ToolTip": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Data_Types_Basics_4.5\\Program.cs",
+              "RelativeToolTip": "Data_Types_Basics_4.5\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T17:00:36.136Z",
+              "WhenOpened": "2024-11-09T16:38:13.779Z",
               "EditorCaption": ""
             }
           ]
