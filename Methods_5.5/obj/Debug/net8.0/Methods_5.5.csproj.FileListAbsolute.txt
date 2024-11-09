@@ -1,0 +1,15 @@
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\bin\Debug\net8.0\Methods_5.5.exe
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\bin\Debug\net8.0\Methods_5.5.deps.json
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\bin\Debug\net8.0\Methods_5.5.runtimeconfig.json
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\bin\Debug\net8.0\Methods_5.5.dll
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\bin\Debug\net8.0\Methods_5.5.pdb
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\obj\Debug\net8.0\Methods_5.5.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\obj\Debug\net8.0\Methods_5.5.AssemblyInfoInputs.cache
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\obj\Debug\net8.0\Methods_5.5.AssemblyInfo.cs
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\obj\Debug\net8.0\Methods_5.5.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\obj\Debug\net8.0\Methods_5.5.sourcelink.json
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\obj\Debug\net8.0\Methods_5.5.dll
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\obj\Debug\net8.0\refint\Methods_5.5.dll
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\obj\Debug\net8.0\Methods_5.5.pdb
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\obj\Debug\net8.0\Methods_5.5.genruntimeconfig.cache
+E:\VisualStudioProjects\SkillfactoryCourseRepository\Methods_5.5\obj\Debug\net8.0\ref\Methods_5.5.dll
