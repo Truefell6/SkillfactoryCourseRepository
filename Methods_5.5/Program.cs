@@ -22,8 +22,10 @@ class MainClass
         if (modif.Length > 2)
         {
             modif = modif.Remove(0, 2);
-            Console.WriteLine("..." + modif);
         }
+
+        Console.BackgroundColor = (ConsoleColor)deep;
+        Console.WriteLine("..." + modif);
 
         if (deep > 1)
         {
