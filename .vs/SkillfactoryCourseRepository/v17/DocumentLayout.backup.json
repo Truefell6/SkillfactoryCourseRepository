@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOP_7.7\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Exceptions.Delegates.Events.9.6.Task1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exceptions.Delegates.Events.9.6.Task1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOP_7.7\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Exceptions.Delegates.Events.9.6.Task1\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exceptions.Delegates.Events.9.6.Task1\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOP_7.7\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOP_7.7\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\Delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOP_7.7\\Delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{562C7EC4-9CD3-4C50-93EB-B352104AEF1E}|OOP_7.7\\OOP_7.7.csproj|e:\\visualstudioprojects\\skillfactorycourserepository\\oop_7.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{562C7EC4-9CD3-4C50-93EB-B352104AEF1E}|OOP_7.7\\OOP_7.7.csproj|solutionrelative:oop_7.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Exceptions.Delegates.Events.9.6.Task1\\Exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exceptions.Delegates.Events.9.6.Task1\\Exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,85 +57,42 @@
               "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\User.cs",
-              "RelativeDocumentMoniker": "OOP_7.7\\User.cs",
-              "ToolTip": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\User.cs",
-              "RelativeToolTip": "OOP_7.7\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Exceptions.Delegates.Events.9.6.Task1\\Person.cs",
+              "RelativeDocumentMoniker": "Exceptions.Delegates.Events.9.6.Task1\\Person.cs",
+              "ToolTip": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Exceptions.Delegates.Events.9.6.Task1\\Person.cs",
+              "RelativeToolTip": "Exceptions.Delegates.Events.9.6.Task1\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:15:56.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Client.cs",
-              "DocumentMoniker": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\Client.cs",
-              "RelativeDocumentMoniker": "OOP_7.7\\Client.cs",
-              "ToolTip": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\Client.cs",
-              "RelativeToolTip": "OOP_7.7\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:08:03.382Z",
+              "WhenOpened": "2025-01-12T13:37:58.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\Product.cs",
-              "RelativeDocumentMoniker": "OOP_7.7\\Product.cs",
-              "ToolTip": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\Product.cs",
-              "RelativeToolTip": "OOP_7.7\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Exceptions.Delegates.Events.9.6.Task1\\Exceptions.cs",
+              "RelativeDocumentMoniker": "Exceptions.Delegates.Events.9.6.Task1\\Exceptions.cs",
+              "ToolTip": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Exceptions.Delegates.Events.9.6.Task1\\Exceptions.cs",
+              "RelativeToolTip": "Exceptions.Delegates.Events.9.6.Task1\\Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:05:25.546Z",
+              "WhenOpened": "2025-01-12T13:24:34.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Order.cs",
-              "DocumentMoniker": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\Order.cs",
-              "RelativeDocumentMoniker": "OOP_7.7\\Order.cs",
-              "ToolTip": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\Order.cs",
-              "RelativeToolTip": "OOP_7.7\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:03:22.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Delivery.cs",
-              "DocumentMoniker": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\Delivery.cs",
-              "RelativeDocumentMoniker": "OOP_7.7\\Delivery.cs",
-              "ToolTip": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\Delivery.cs",
-              "RelativeToolTip": "OOP_7.7\\Delivery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:02:09.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\Program.cs",
-              "RelativeDocumentMoniker": "OOP_7.7\\Program.cs",
-              "ToolTip": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\OOP_7.7\\Program.cs",
-              "RelativeToolTip": "OOP_7.7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Exceptions.Delegates.Events.9.6.Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Exceptions.Delegates.Events.9.6.Task1\\Program.cs",
+              "ToolTip": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Exceptions.Delegates.Events.9.6.Task1\\Program.cs",
+              "RelativeToolTip": "Exceptions.Delegates.Events.9.6.Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:43:01.212Z",
+              "WhenOpened": "2025-01-12T11:49:01.922Z",
               "EditorCaption": ""
             }
           ]
