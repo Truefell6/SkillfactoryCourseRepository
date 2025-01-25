@@ -1,43 +1,38 @@
 ﻿
-using System;
-using Exceptions;
+namespace Exceptions.Delegates.Events._9._6.Task1;
 
 class MainClass
 {
+    // Не понятно, как вызывать из коллекции исключений эти самые исключения таким образом, чтобы передать в них необходимые аргументы.
+    // В модуле такого примера нет, и не понятна цель такого действия, когда есть фильтры исключений.
+    // Если есть возможность, просьба привести примеры и указать ресурсы, где можно ознакомиться с таким примером использования массива исключений.
+    // Также хотелось бы, чтобы в будущем такие примеры разбирались в модулях.
     public static void Main(string[] args)
     {
-
-        Exception[] test = new Exception[3] { new testEx(null, null), new testEx("s", 2), new ArgumentException() }; // { ArgumentException, NullReferenceException }
-        //test[0] = new testEx("w", 1);
-        //test[1] = new testEx("s", 2);
-        //test[1] = new NameMinLengthException("w", 1);
-
-        try
+        Person[] people = [new Person { Name = "Tom", Age = 16 }, new Person { Name = "D", Age = 24 }, new Person { Name = null, Age = 20 }];
+        foreach (var person in people)
         {
-            Person person = new Person { Name = "Tom", Age = 16 };
-            //Object[] test = new Object[2] { LegalAgeException, NameMinLengthException };
+            try
+            {
+                if (person.Name is null)
+                {
+                    throw new ArgumentNullException(person.Name, "Имя не может быть пустым");
+                }
+                else if (person.Name.Length <= 1)
+                {
+                    throw new NameMinLengthException("Имя не может состоять из одной буквы", person.Name);
+                }
+                else if (person.Age < 18)
+                {
+                    throw new LegalAgeException("Возраст должен быть не меньше 18", person.Age);
+                }
+            }
+            catch (Exception ex) when ((ex is ArgumentNullException) ||
+                                       (ex is NameMinLengthException) ||
+                                       (ex is LegalAgeException))
+            {
+                Console.WriteLine($"С записью человека {person.Name} возникла следующая ошибка: {ex.Message}");
+            }
         }
-        catch (LegalAgeException ex)
-        {
-            Console.WriteLine($"Ошибка: {ex.Message}");
-            Console.WriteLine($"Некорректное значение: {ex.Value}");
-            Console.ReadLine();
-        }
-        catch (NameMinLengthException ex)
-        {
-            Console.WriteLine($"Ошибка: {ex.Message}");
-            Console.WriteLine($"Длина введённого имени: {ex.NameLength}");
-            Console.ReadLine();
-        }
-    }
-}
-
-public class testEx : ArgumentException
-{
-    public int? Value { get; }
-    public testEx(string? message, int? val)
-        : base(message)
-    {
-        Value = val;
     }
 }

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Data_Types_Basics_4.5\\Data_Types_Basics_4.5.csproj",
+      "projectUniqueName": "E:\\C# PRJCTS\\SkillfactoryCourseRepository\\Data_Types_Basics_4.5\\Data_Types_Basics_4.5.csproj",
       "projectName": "Data_Types_Basics_4.5",
-      "projectPath": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Data_Types_Basics_4.5\\Data_Types_Basics_4.5.csproj",
+      "projectPath": "E:\\C# PRJCTS\\SkillfactoryCourseRepository\\Data_Types_Basics_4.5\\Data_Types_Basics_4.5.csproj",
       "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
-      "outputPath": "E:\\VisualStudioProjects\\SkillfactoryCourseRepository\\Data_Types_Basics_4.5\\obj\\",
+      "outputPath": "E:\\C# PRJCTS\\SkillfactoryCourseRepository\\Data_Types_Basics_4.5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -53,7 +53,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -74,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

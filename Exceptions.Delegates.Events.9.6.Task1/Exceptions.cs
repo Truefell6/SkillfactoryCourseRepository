@@ -1,7 +1,7 @@
 ﻿
-namespace Exceptions;
+using System.Diagnostics.CodeAnalysis;
 
-using System;
+namespace Exceptions.Delegates.Events._9._6.Task1;
 
 public class LegalAgeException : ArgumentException
 {
@@ -15,10 +15,12 @@ public class LegalAgeException : ArgumentException
 
 public class NameMinLengthException : ArgumentException
 {
-    public int NameLength;
-    public NameMinLengthException(string message, string name)
+    private string? Name { get; }
+    public readonly int NameLength;
+    public NameMinLengthException(string message, string? name)
         : base(message)
-    { 
-        NameLength = name.Length;
+    {
+        Name = name;
+        NameLength = Name.Length;
     }
 }
